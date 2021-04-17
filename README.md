@@ -12,5 +12,7 @@ Each year every teacher resets their Moodle Course Shell and then enrolls next y
  <li>Upload the CSV file and your students will be enrolled into the course and placed in groups called: teacher username period number (Ex. hermonm7)</li>
  </ol>
  
- # Here are the directions on YouTube as well:
+ # YouTube Directions:
+ 
+ 
  
