@@ -14,6 +14,6 @@ Each year every teacher resets their Moodle Course Shell and then enrolls next y
  
  # YouTube Directions:
  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RTOs-ja2hvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/RTOs-ja2hvY
  
  
